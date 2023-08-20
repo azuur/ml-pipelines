@@ -4,12 +4,12 @@ Sanbdox to play with ML pipelines and the cloud
 ## Changelog
 
 - 2033/08/19: First commits
-- 2023/08/20: Added training script
+- 2023/08/20: Added training and eval scripts, + "unit test"
 
 ## Backlog
 
 - ~~Write ML training script~~
-- Write model evaluation script
+- ~~Write model evaluation script~~
 - Figure out how to run Kedro/Airflow/etc in AWS EC2 or Lambdas
 - Package pipelines with Kedro, Airflow, or something else
 - Figure out how to set up simple database + data lineage in AWS
