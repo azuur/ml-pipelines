@@ -1,10 +1,11 @@
 [tool.poetry]
-name = "ML Pipelines"
+name = "ml-pipelines"
 version = "0.1.0"
 description = "Sandbox for playing with ML pipelines"
 authors = ["Adrian Zuur <adrianzuur@gmail.com>"]
-license = "MIT"
+license = "MIT License"
 readme = "README.md"
+packages = [{include = "ml_pipelines"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
